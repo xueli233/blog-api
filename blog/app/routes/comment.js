@@ -1,4 +1,3 @@
-//引入模块
 let express = require('express');
 let Blog = require('../models/blog');
 let apiRoutes = express.Router();
