@@ -1,4 +1,3 @@
-//引入模块
 let express = require('express');
 let app = express();
 let jwt = require('jsonwebtoken');
