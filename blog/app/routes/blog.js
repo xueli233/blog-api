@@ -1,4 +1,3 @@
-//引入模块
 let express = requir('express');
 let Blog = require('../models/blog');
 
