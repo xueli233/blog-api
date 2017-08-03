@@ -1,4 +1,3 @@
-//引入模块
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
