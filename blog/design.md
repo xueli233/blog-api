@@ -16,7 +16,9 @@
   - config.js
   - package.json
   - server.js
-## 模型  
+## 文件 
+- blog.js
+## 模型
 - 用户user
 ```
 {
@@ -33,7 +35,7 @@
   }
 }
 ```
-- 博客模型
+- [x] 博客模型
 ```
 {
   title: String,
