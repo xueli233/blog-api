@@ -1,3 +1,4 @@
+//引入模块
 let moogoose = require('mongoose');
 let Schema = mongoose.Schema;
 
